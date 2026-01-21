@@ -1,3 +1,10 @@
+.button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -61,4 +68,5 @@ footer {
   header {
     padding: 40px 10px;
   }
+
 }
