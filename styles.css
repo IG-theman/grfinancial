@@ -50,6 +50,8 @@ h1, h2 {
     color 0.3s ease,
     transform 0.25s ease;
   will-change: transform;
+  width: 260px;
+  margin:0 auto;
 }
 
 .cta:hover {
@@ -72,6 +74,7 @@ footer {
   }
 
 }
+
 
 
 
