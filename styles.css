@@ -3,6 +3,7 @@
   flex-direction: column;
   gap: 10px;
   width: fit-content;
+  align: center;
 }
 
 
@@ -71,6 +72,7 @@ footer {
   }
 
 }
+
 
 
 
